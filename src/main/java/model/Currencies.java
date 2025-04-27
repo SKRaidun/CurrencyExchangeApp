@@ -1,7 +1,7 @@
 package model;
 
 public class Currencies {
-    private int ID;
+    private Integer ID;
     private String Code;
     private String FullName;
     private String Sign;
@@ -10,7 +10,7 @@ public class Currencies {
         return ID;
     }
 
-    public void setID(int ID) {
+    public void setID(Integer ID) {
         this.ID = ID;
     }
 
@@ -40,7 +40,7 @@ public class Currencies {
 
     @Override
     public String toString() {
-        return "Currencies{" +
+        return "{" +
                 "ID=" + ID +
                 ", Code='" + Code + '\'' +
                 ", FullName='" + FullName + '\'' +
