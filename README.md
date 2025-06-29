@@ -4,6 +4,21 @@
 
 Приложение для конвертации валют, реализующее REST API для получения текущих курсов валют и выполнения конвертаций. Проект был разработан в рамках обучающего курса по Java Backend разработке [currency-exchange](https://zhukovsd.github.io/java-backend-learning-course/projects/currency-exchange/).
 
+## Стек
+
+![Java](https://img.shields.io/badge/java-black.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Jakarta EE](https://img.shields.io/badge/jakarta_ee-black?style=for-the-badge&labelColor=white)
+![Static Badge](https://img.shields.io/badge/mvc(s)-black?style=for-the-badge&labelColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-black.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![JDBC](https://img.shields.io/badge/jdbc-black?style=for-the-badge&labelColor=white)
+![HTTP](https://img.shields.io/badge/http-black?style=for-the-badge&labelColor=white)
+![Rest Api](https://img.shields.io/badge/REST%20API-black?style=for-the-badge&labelColor=white)
+![JSON](https://img.shields.io/badge/json-black?style=for-the-badge&labelColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-black?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-black?style=for-the-badge&logo=postman&logoColor=white)
+
+
 ## Основные возможности
 
 - Получение списка всех доступных валют
@@ -11,14 +26,6 @@
 - Расчет суммы конвертации между валютами
 - Добавление новых валют в систему
 
-## Технологии
-
-- Java сервлеты
-- REST API
-- Паттерн MVC
-- SQLite
-- JDBC
-- Maven
 
 ## API Endpoints
 
